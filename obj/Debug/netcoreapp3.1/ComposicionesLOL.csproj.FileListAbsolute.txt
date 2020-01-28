@@ -1,0 +1,11 @@
+D:\Multimedia\Programas VS\ComposicionesLOL\bin\Debug\netcoreapp3.1\ComposicionesLOL.exe
+D:\Multimedia\Programas VS\ComposicionesLOL\bin\Debug\netcoreapp3.1\ComposicionesLOL.deps.json
+D:\Multimedia\Programas VS\ComposicionesLOL\bin\Debug\netcoreapp3.1\ComposicionesLOL.runtimeconfig.json
+D:\Multimedia\Programas VS\ComposicionesLOL\bin\Debug\netcoreapp3.1\ComposicionesLOL.runtimeconfig.dev.json
+D:\Multimedia\Programas VS\ComposicionesLOL\bin\Debug\netcoreapp3.1\ComposicionesLOL.dll
+D:\Multimedia\Programas VS\ComposicionesLOL\bin\Debug\netcoreapp3.1\ComposicionesLOL.pdb
+D:\Multimedia\Programas VS\ComposicionesLOL\obj\Debug\netcoreapp3.1\ComposicionesLOL.csprojAssemblyReference.cache
+D:\Multimedia\Programas VS\ComposicionesLOL\obj\Debug\netcoreapp3.1\ComposicionesLOL.AssemblyInfoInputs.cache
+D:\Multimedia\Programas VS\ComposicionesLOL\obj\Debug\netcoreapp3.1\ComposicionesLOL.AssemblyInfo.cs
+D:\Multimedia\Programas VS\ComposicionesLOL\obj\Debug\netcoreapp3.1\ComposicionesLOL.dll
+D:\Multimedia\Programas VS\ComposicionesLOL\obj\Debug\netcoreapp3.1\ComposicionesLOL.pdb
